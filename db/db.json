@@ -1,5 +1,1 @@
-[
-  { "title": "Hi My name is Ehson", "text": "this should be index 1", "id": 1 },
-  { "title": "Zintis", "text": "Index should be 2", "id": 2 },
-  { "title": "Zintis", "text": "Index should be 2", "id": 3 }
-]
+[{"title":"Hi My name is Ehson","text":"this should be index 1","id":1},{"title":"Hey Fam How are you","text":"whatsup","id":1}]
